@@ -14,3 +14,7 @@ Skills live in `.agents/skills/` so any compatible agent can discover them.
 ## Usage
 
 Point your agent at `.agents/skills/`, or copy a skill directory into your agent's skills location.
+
+## License
+
+[MIT](LICENSE)
