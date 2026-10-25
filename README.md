@@ -10,6 +10,7 @@ Skills live in `.agents/skills/` so any compatible agent can discover them.
 | --- | --- |
 | [data-system-design-review](.agents/skills/data-system-design-review/SKILL.md) | Review and design data-heavy backend systems: storage, replication, partitioning, transactions, batch and stream pipelines. |
 | [microservices-design-review](.agents/skills/microservices-design-review/SKILL.md) | Review and design microservice architectures: service boundaries, communication, data and workflows, resilience, security, delivery, and migration. |
+| [software-architecture-review](.agents/skills/software-architecture-review/SKILL.md) | Review and design the overall structure of software systems. |
 
 ## Usage
 
